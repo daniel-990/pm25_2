@@ -19,8 +19,8 @@ int BluetoothData; // the data given from Computer
 const char* hostGet = "server-personal.herokuapp.com"; 
 
 //credenciales de la red wifi
-const char* ssid = "";
-const char* password = "";
+const char* ssid = "CAN";
+const char* password = "p@_";
 
 #define NUM_LEDS 3
 #define DATA_PIN D1 //12 = d6
